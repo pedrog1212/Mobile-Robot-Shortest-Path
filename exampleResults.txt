@@ -1,0 +1,57 @@
+Example Result Console
+
+INFO: pedrog_Lab5_task1: Starting controller: C:\FAIRIS-Lite\venv\Scripts\python.exe -u pedrog_Lab5_task1.py
+Program Start.
+Goal shall be cell number: 7
+ 
+Path:	10|9|8|7
+ 
+Shortest Distance:    3.00 meters
+ 
+Navigation:	W W W
+ 
+Pose Estimation:
+	(x:2.0, y:1.0, n:10, theta:90)
+	(x:1.0, y:1.0, n:9, theta:180)
+	(x:0.0, y:1.0, n:8, theta:180)
+	(x:-1.0, y:1.0, n:7, theta:180)
+ 
+Destination has been reached.
+Total travel time: 39.89 seconds
+ 
+INFO: 'pedrog_Lab5_task1' controller exited successfully.
+
+
+INFO: pedrog_Lab5_task1: Starting controller: C:\FAIRIS-Lite\venv\Scripts\python.exe -u pedrog_Lab5_task1.py
+Program Start.
+Goal shall be cell number: 7
+ 
+Path:	25|20|15|14|13|12|11|6|1|2|3|4|5|10|9|8|7
+ 
+Shortest Distance:    16.00 meters
+ 
+Navigation:	N N W W W W N N E E E E S W W W
+ 
+Pose Estimation:
+	(x:2.0, y:-2.0, n:25, theta:90)
+	(x:2.0, y:-1.0, n:20, theta:90)
+	(x:2.0, y:0.0, n:15, theta:90)
+	(x:1.0, y:0.0, n:14, theta:180)
+	(x:0.0, y:0.0, n:13, theta:180)
+	(x:-1.0, y:0.0, n:12, theta:180)
+	(x:-2.0, y:0.0, n:11, theta:180)
+	(x:-2.0, y:1.0, n:6, theta:90)
+	(x:-2.0, y:2.0, n:1, theta:90)
+	(x:-1.0, y:2.0, n:2, theta:0)
+	(x:0.0, y:2.0, n:3, theta:0)
+	(x:1.0, y:2.0, n:4, theta:0)
+	(x:2.0, y:2.0, n:5, theta:0)
+	(x:2.0, y:1.0, n:10, theta:270)
+	(x:1.0, y:1.0, n:9, theta:180)
+	(x:0.0, y:1.0, n:8, theta:180)
+	(x:-1.0, y:1.0, n:7, theta:180)
+ 
+Destination has been reached.
+Total travel time: 209.54 seconds
+ 
+INFO: 'pedrog_Lab5_task1' controller exited successfully.
